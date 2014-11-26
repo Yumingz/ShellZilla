@@ -72,7 +72,7 @@ void funShellZillaExcVer(char *pCmd, char *pParam)
     printf("*feature description: 1.get current folder name                *\n");
     printf("*                     2.shell version                  *\n");
     printf("*                     3.                     *\n");
-    printf("*author             : Wentao Xu, Yuming Zhang, Zhenqing Luo         *\n");
+    printf("*author             : Tianqi Zhou, Wentao Xu, Yuming Zhang, Zhenqing Luo *\n");
     printf("**********************************************************************\r\n");
     return;
 }
